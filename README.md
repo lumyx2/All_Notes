@@ -11,6 +11,5 @@ I do not claim that any of them are the best way of doing things. Just notes on 
 ## Index
 
 - [My Unreal Notes](./Unreal/Unreal_notes.md)
-- [How to use different Conda Env per Jupyter Notebook](.CondaJupyter/CondaJup.md)
--
-- 
+- [How to use different Conda Env per Jupyter Notebook](./CondaJupyter/CondaJup.md)
+
