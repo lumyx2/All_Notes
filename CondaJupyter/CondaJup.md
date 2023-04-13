@@ -1,7 +1,7 @@
 # Conda Notes
 
 ## How to use different `Conda Environments` per Jupyter Notebook
-I've found that there is a lot of partial info around this. However, I found a really good guide in this [post](https://towardsdatascience.com/get-your-conda-environment-to-show-in-jupyter-notebooks-the-easy-way-17010b76e874). The point of this post it to keep the essential and hopefully survive if that link dies. 
+I've found that there is a lot of partial info around this topic. However, with a bit of googling I came across this [post](https://towardsdatascience.com/get-your-conda-environment-to-show-in-jupyter-notebooks-the-easy-way-17010b76e874). I've copied the essentials so I don't have to go searching in my bookmarks and so it hopefully survives if that link dies. 
 
 ### Steps:
 

@@ -15,5 +15,5 @@ I do not claim that any of them are the best way of doing things. Just notes on 
     - [How to use different Conda Env per Jupyter Notebook](./CondaJupyter/CondaJup.md#how-to-use-different-conda-environments-per-jupyter-notebook)
     <!-- - [Next Solution](./CondaJupyter/CondaJup.md#next-solution) -->
 - [My Jupyter Notes](./Jupyter/Jupyter_notes.md)
-    - [Jupyter not letting you same - FORBIDDEN Error](./Jupyter/Jupyter_notes.md#head1234))
+    - [Jupyter not letting you same - FORBIDDEN Error](./Jupyter/Jupyter_notes.md#head1234)
 
