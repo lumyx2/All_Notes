@@ -1,8 +1,9 @@
-# How to use different `Conda Environments` per Jupyter Notebook
+# Conda Notes
 
+## How to use different `Conda Environments` per Jupyter Notebook
 I've found that there is a lot of partial info around this. However, I found a really good guide in this [post](https://towardsdatascience.com/get-your-conda-environment-to-show-in-jupyter-notebooks-the-easy-way-17010b76e874). The point of this post it to keep the essential and hopefully survive if that link dies. 
 
-## Steps:
+### Steps:
 
 1. Install `conda` in whatever way works for you. 
 3. Intall whatever packages you will use in your base environment
@@ -40,5 +41,6 @@ I've found that there is a lot of partial info around this. However, I found a r
     ```
 
 
+<!-- ## Next solution -->
 
 
